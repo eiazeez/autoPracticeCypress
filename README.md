@@ -2,7 +2,29 @@
 
 Repositório destinado a laboratório de Teste Automatizados no Cypress para o site http://automationpractice.com/
 
-<p align="left">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
+:construction: Projeto em construção :construction:
+
+## Índice 
+
+* [Índice](#índice)
+* [Getting Started](#getting-started)
+
+
+## Getting Started
+
+## 📁 Acesso ao projeto
+
+* Use o 
+```
+git clone https://github.com/eiazeez/autoPracticeCypress.git 
+```
+para obter o repositório para sua máquina.
+
+## 🛠️ Abrir e rodar o projeto
+
+* Abra o VS Code no repositório local 
+* Lembre-se de instalar as depedências com
+```
+npm install
+```
 
