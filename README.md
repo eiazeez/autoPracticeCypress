@@ -27,4 +27,8 @@ para obter o repositório para sua máquina.
 ```
 npm install
 ```
+* E então use o comando abaixo para abrir o Cypress:
+```
+npx cypress open
+```
 
