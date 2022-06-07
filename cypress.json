@@ -1,0 +1,10 @@
+{
+  "baseUrl": "http://automationpractice.com/index.php",
+  "viewportWidth": 1440,
+  "viewportHeight": 900,
+  "defaltCommandTimeout": 30000,
+  "responseTimeout": 300000,
+  "pageLoadTimeout": 300000,
+  "chromeWebSecurity": false,
+  "failOnStatusCode": false
+}
