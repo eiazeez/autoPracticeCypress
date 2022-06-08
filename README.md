@@ -30,7 +30,7 @@ git clone https://github.com/eiazeez/autoPracticeCypress.git
 
 ## 🛠️ Abrir e rodar o projeto
 
-* Lembre-se de instalar as depedências com
+* Lembre-se entrar na pasta do projeto e instalar as depedências com
 ```
 npm install
 ```
