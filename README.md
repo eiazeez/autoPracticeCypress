@@ -1,13 +1,17 @@
 <h1 align="center"> automationPractice no Cypress </h1>
 
-Repositório destinado a laboratório de Teste Automatizados no Cypress para o site http://automationpractice.com/
+<h2 align="center"> • Repositório destinado a laboratório de Teste Automatizados no Cypress para o site http://automationpractice.com/ </h2>
 
-:construction: Projeto em construção :construction:
+<p align="center">
+<img src="https://img.shields.io/badge/LICENSE-MIT-green"/> 
+<img src="https://img.shields.io/badge/CYPRESS-9.7.0-brightgreen"/>
+</p>
+
+:construction: Este projeto segue em construção :construction:
 
 ## Índice 
 
-* [Índice](#índice)
-* [Getting Started](#getting-started)
+* [Índice](#índice) - [Getting Started](#getting-started) - [Acesso ao projeto](#-acesso-ao-projeto) - [Abrir e rodar o projeto](#️-abrir-e-rodar-o-projeto)
 
 
 ## Getting Started
@@ -22,12 +26,13 @@ para obter o repositório para sua máquina.
 
 ## 🛠️ Abrir e rodar o projeto
 
-* Abra o VS Code no repositório local 
 * Lembre-se de instalar as depedências com
 ```
 npm install
 ```
-* E então use o comando abaixo para abrir o Cypress:
+
+
+* Use o comando abaixo para abrir o Cypress:
 ```
 npx cypress open
 ```
