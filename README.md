@@ -19,31 +19,30 @@
 
 ![NodeV](https://img.shields.io/badge/NODE-14.17.1-blue)
 
-O passo a passo para executar o Cypress é bem simples, será necessário que você tenha Node instalado previamente. No meu caso, o node utilizado foi a versão 14.17.1. 
+O passo a passo para executar o Cypress é bem simples, será necessário que você tenha Node instalado previamente. No meu caso, o node utilizado foi a versão 14.17.1.
 
 ## 📁 Acesso ao projeto
 
-* Clone o repositório usando
+* Clone o repositório na sua máquina usando:
 ```
 git clone https://github.com/eiazeez/autoPracticeCypress.git 
 ```
-na sua máquina.
 
 ## 🛠️ Abrir e rodar o projeto
 
-* Após clonar o repositório, entre na pasta do projeto e instale as depedências com
-
+* Lembre-se de instalar as depedências com
 ```
 npm install
 ```
-![CPT2206080057-621x347](https://user-images.githubusercontent.com/92765887/172528525-5fd4df2d-8335-4faa-ac11-5d5d705bd052.gif)
+![CPT2206080057-621x347](https://user-images.githubusercontent.com/92765887/172528698-9dbcfb13-1319-448d-9b3a-b60bb2878b8f.gif)
 
-(Exemplo meramente ilustrativo)
 
-Após a instalação, o Cypress deve estar pronto para ser iniciado
-
-* Use o comando abaixo para abrir o Cypress:
+* ainda dentro da pasta do projeto, para abrir a interface do Cypress use o comando abaixo:
 ```
 npx cypress open
 ```
+![CPT2206080106-621x349](https://user-images.githubusercontent.com/92765887/172529378-ecf15eec-8443-4a7f-8a84-c3db8304196b.gif)
+
+
+
 
