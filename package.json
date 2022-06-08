@@ -1,5 +1,28 @@
 {
   "devDependencies": {
     "cypress": "9.7.0"
-  }
+  },
+  "name": "automationpracticecypress",
+  "version": "1.0.0",
+  "description": "Laboratório de Testes para o site automationpractice",
+  "main": "index.js",
+  "dependencies": {
+    "faker": "^6.6.6"
+  },
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eiazeez/autoPracticeCypress.git"
+  },
+  "keywords": [
+    "Cypress"
+  ],
+  "author": "Azeez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eiazeez/autoPracticeCypress/issues"
+  },
+  "homepage": "https://github.com/eiazeez/autoPracticeCypress#readme"
 }
