@@ -51,7 +51,7 @@ npx cypress open
 
 #
 
-- 'onAir.spec.js' é um teste feito para verificar se o site estar no ar (automationpractice.com pode ser um pouco instável às vezes)
+- 'onAir.spec.js' é um teste feito para verificar se o site estar no ar (automationpractice.com pode ser um bem instável às vezes)
 - 'T01_testCase.spec.js' é um teste que segue o seguinte fluxo:
 
 1. Acessar o site http://automationpractice.com/
@@ -63,8 +63,6 @@ npx cypress open
 - Para executar o teste, basta clicar em cima do nome do arquivo
 
 ![CPT2206080129-621x349](https://user-images.githubusercontent.com/92765887/172531877-b80bf33a-1769-4df3-9565-be0a795f8f3e.gif)
-
-#
 
 
 
