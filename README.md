@@ -37,11 +37,35 @@ npm install
 ![CPT2206080057-621x347](https://user-images.githubusercontent.com/92765887/172528698-9dbcfb13-1319-448d-9b3a-b60bb2878b8f.gif)
 
 
-* ainda dentro da pasta do projeto, para abrir a interface do Cypress use o comando abaixo:
+* ainda dentro da pasta do projeto, para abrir a interface do Cypress use o comando
 ```
 npx cypress open
 ```
 ![CPT2206080106-621x349](https://user-images.githubusercontent.com/92765887/172529378-ecf15eec-8443-4a7f-8a84-c3db8304196b.gif)
+
+#
+* Arquivos '.spec.js' são arquivos de testes, ou seja, no exemplo abaixo temos 2 arquivos de execução de testes
+
+
+![image](https://user-images.githubusercontent.com/92765887/172530236-85491f8c-1057-43d3-b769-8e3ca51dd946.png)
+
+#
+
+- 'onAir.spec.js' é um teste feito para verificar se o site estar no ar (automationpractice.com pode ser um pouco instável às vezes)
+- 'T01_testCase.spec.js' é um teste que segue o seguinte fluxo:
+
+1. Acessar o site http://automationpractice.com/
+2. Criar uma conta na plataforma
+3. Realizar um login na conta criada
+4. Adicionar um dos produtos das vitrines da home
+5. Verificar se foi adicionado o produto ao carrinho  
+
+- Para executar o teste, basta clicar em cima do nome do arquivo
+
+![CPT2206080129-621x349](https://user-images.githubusercontent.com/92765887/172531877-b80bf33a-1769-4df3-9565-be0a795f8f3e.gif)
+
+#
+
 
 
 
