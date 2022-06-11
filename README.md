@@ -34,10 +34,7 @@ git clone https://github.com/eiazeez/autoPracticeCypress.git
 ```
 npm install cypress --save-dev
 ```
-caso use yarn, pode utilizar o comando
-```
-yarn add cypress --dev
-```
+
 ![CPT2206080057-621x347](https://user-images.githubusercontent.com/92765887/172528698-9dbcfb13-1319-448d-9b3a-b60bb2878b8f.gif)
 
 
